@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9228" started-at="2020-01-08T06:39:09Z" finished-at="2020-01-08T06:39:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9228" started-at="2020-01-08T06:39:09Z" finished-at="2020-01-08T06:39:18Z">
+      <class name="com.opentext.bn.lens.cmd.BUCreate_Lens">
+        <test-method status="PASS" signature="Environment()[pri:0, instance:com.opentext.bn.lens.cmd.BUCreate_Lens@61832929]" name="Environment" is-config="true" duration-ms="5" started-at="2020-01-08T12:09:09Z" finished-at="2020-01-08T12:09:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Environment -->
+        <test-method status="PASS" signature="BUCreate_Lens()[pri:0, instance:com.opentext.bn.lens.cmd.BUCreate_Lens@61832929]" name="BUCreate_Lens" duration-ms="9213" started-at="2020-01-08T12:09:09Z" finished-at="2020-01-08T12:09:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BUCreate_Lens -->
+      </class> <!-- com.opentext.bn.lens.cmd.BUCreate_Lens -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
